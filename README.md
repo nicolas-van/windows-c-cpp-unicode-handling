@@ -1,2 +1,2 @@
-# windows-c-cpp-unicode-handling
-An as exhaustive as possible documentation about Windows Unicode handling compared to other OSes
+# Everything you need to know about Windows Unicode Handling if you are a C or C++ developer
+
